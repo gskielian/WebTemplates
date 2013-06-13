@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+  
+  <!-- The Title -->
+  <title> Bootstrap is Portable </title>
+
+  <!-- Do things with Style use CSS -->
+  <link href="css/bootstrap.css" rel="stylesheet">
+  <link href="css/bootstrap-responsive.css" rel="stylesheet">
+  
+  <!-- Awesome effects and animations -->
+  <script src="js/jquery"></script>
+  <script src="js/bootstrap.js"></script>
+  <script src="js/bootstrap-responsive.js"></script>
+  
+  <script src=" "> </script>
+  
+  
+</head>
+
+<body>
+  
+  'hello
+  
+</body>
+
+
+</html>
